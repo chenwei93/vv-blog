@@ -322,9 +322,9 @@
     <link href="//vivi.fenghou.site/2016/12/12/2016-12-12-md-rule/"/>
     <id>//vivi.fenghou.site/2016/12/12/2016-12-12-md-rule/</id>
     <published>2016-12-12T02:25:27.000Z</published>
-    <updated>2017-11-02T02:45:19.116Z</updated>
+    <updated>2018-01-15T08:17:10.676Z</updated>
     
-    <content type="html"><![CDATA[<p>markdown 语法<br><a id="more"></a></p>
+    <content type="html"><![CDATA[<p>markdown 部分语法<br><a id="more"></a></p>
 <h1 id="A"><a href="#A" class="headerlink" title="A"></a>A</h1><h2 id="B"><a href="#B" class="headerlink" title="B"></a>B</h2><hr>
 <p><code>亮不亮</code></p>
 <p><a href="http://blog.csdn.net/guodongxiaren" title="悬停显示" target="_blank" rel="external">我的博客</a></p>
@@ -381,7 +381,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;markdown 语法&lt;br&gt;
+      &lt;p&gt;markdown 部分语法&lt;br&gt;
     
     </summary>
     

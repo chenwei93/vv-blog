@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>//vivi.fenghou.site/2016/12/12/2016-12-12-md-rule/</loc>
+    <lastmod>2018-01-15T08:17:10.676Z</lastmod>
+    <data>
+        <display>
+        <title>MarkDown语法</title>
+        <pubTime>2016-12-12T02:25:27.000Z</pubTime>
+        
+        <tag>markdown</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>//vivi.fenghou.site/2017/11/17/2017-11-17-vue-about/</loc>
     <lastmod>2018-01-05T03:50:16.083Z</lastmod>
     <data>
@@ -63,23 +80,6 @@
         <pubTime>2016-12-30T11:11:06.000Z</pubTime>
         
         <tag>js</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>//vivi.fenghou.site/2016/12/12/2016-12-12-md-rule/</loc>
-    <lastmod>2017-11-02T02:45:19.116Z</lastmod>
-    <data>
-        <display>
-        <title>MarkDown语法</title>
-        <pubTime>2016-12-12T02:25:27.000Z</pubTime>
-        
-        <tag>markdown</tag>
          
          
            
