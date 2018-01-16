@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ceae0193-a105-49cf-8ba7-972cad70b5c4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml" afterPath="$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml" />
+    <list default="true" id="ceae0193-a105-49cf-8ba7-972cad70b5c4" name="Default" comment="2018-1-16">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-blog/source/_posts/2018-1-16-演习.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo/2018/01/16/2018-1-16-演习/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo/archives/2018/01/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo/archives/2018/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo-blog/package.json" afterPath="$PROJECT_DIR$/hexo-blog/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/2016/12/12/2016-12-12-md-rule/index.html" afterPath="$PROJECT_DIR$/hexo/2016/12/12/2016-12-12-md-rule/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/2016/12/19/2016-12-19-移动端适配/index.html" afterPath="$PROJECT_DIR$/hexo/2016/12/19/2016-12-19-移动端适配/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/2016/12/27/2016-12-27-你真的学好Js/index.html" afterPath="$PROJECT_DIR$/hexo/2016/12/27/2016-12-27-你真的学好Js/index.html" />
@@ -21,9 +28,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/archives/2017/11/index.html" afterPath="$PROJECT_DIR$/hexo/archives/2017/11/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/archives/2017/index.html" afterPath="$PROJECT_DIR$/hexo/archives/2017/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/archives/index.html" afterPath="$PROJECT_DIR$/hexo/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/atom.xml" afterPath="$PROJECT_DIR$/hexo/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/baidusitemap.xm" afterPath="$PROJECT_DIR$/hexo/baidusitemap.xm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/content.json" afterPath="$PROJECT_DIR$/hexo/content.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/feed.json" afterPath="$PROJECT_DIR$/hexo/feed.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/index.html" afterPath="$PROJECT_DIR$/hexo/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/page/2/index.html" afterPath="$PROJECT_DIR$/hexo/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/sitemap.xml" afterPath="$PROJECT_DIR$/hexo/sitemap.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/tags/css/index.html" afterPath="$PROJECT_DIR$/hexo/tags/css/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/tags/js/index.html" afterPath="$PROJECT_DIR$/hexo/tags/js/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexo/tags/markdown/index.html" afterPath="$PROJECT_DIR$/hexo/tags/markdown/index.html" />
@@ -43,90 +54,49 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="81">
-                <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
-              <second_editor />
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="2017-11-17-vue-about.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/2017-11-17-vue-about.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
               <first_editor relative-caret-position="0">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding>
-                  <marker date="1515124216083" expanded="true" signature="204:250" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="264:317" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="280:309" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="338:408" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="371:400" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="503:602" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="632:795" ph="{&quot;mutations&quot;: mutations...}" />
-                  <marker date="1515124216083" expanded="true" signature="643:709" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="665:705" ph="{&quot;url&quot;: ''...}" />
-                  <marker date="1515124216083" expanded="true" signature="778:792" ph="{&quot;ware&quot;: ware...}" />
-                  <marker date="1515124216083" expanded="true" signature="825:869" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="851:867" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="894:919" ph="{&quot;demoWareStore&quot;: '345'...}" />
-                  <marker date="1515124216083" expanded="true" signature="936:965" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="1005:1100" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="1042:1098" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="1119:1205" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="1146:1203" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="1221:1267" ph="{&quot;state&quot;: state...}" />
-                  <marker date="1515124216083" expanded="true" signature="1667:1782" ph="{&quot;path&quot;: '/part'...}" />
-                  <marker date="1515124216083" expanded="true" signature="1699:1772" ph="[...]" />
-                  <marker date="1515124216083" expanded="true" signature="1709:1756" ph="{&quot;name&quot;: 'Home'...}" />
-                  <marker date="1515124216083" expanded="true" signature="1792:1844" ph="{&quot;name&quot;: 'Part'...}" />
-                  <marker date="1515124216083" expanded="true" signature="2075:2255" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="2135:2160" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="2189:2222" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="2375:2686" ph="{...}" />
-                  <marker date="1515124216083" expanded="true" signature="2388:2684" ph="[...]" />
-                  <marker date="1515124216083" expanded="true" signature="2397:2677" ph="{&quot;name&quot;: 'Home'...}" />
-                  <marker date="1515124216083" expanded="true" signature="2499:2656" ph="[...]" />
-                  <marker date="1515124216083" expanded="true" signature="2517:2642" ph="{&quot;name&quot;: 'Part'...}" />
-                  <marker date="1515124216083" expanded="true" signature="2721:2791" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="2738:2779" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="2814:3054" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="2839:3042" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="2906:3002" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="3077:3115" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="3085:3103" ph="..." />
-                  <marker date="1515124216083" expanded="true" signature="3172:3283" ph="{&quot;path&quot;: '/'...}" />
-                  <marker date="1515124216083" expanded="true" signature="3200:3273" ph="[...]" />
-                  <marker date="1515124216083" expanded="true" signature="3210:3257" ph="{&quot;name&quot;: 'Home'...}" />
-                  <marker date="1515124216083" expanded="true" signature="3395:3510" ph="{&quot;path&quot;: '/part'...}" />
-                  <marker date="1515124216083" expanded="true" signature="3427:3500" ph="[...]" />
-                  <marker date="1515124216083" expanded="true" signature="3437:3484" ph="{&quot;name&quot;: 'Home'...}" />
-                  <marker date="1515124216083" expanded="true" signature="3520:3567" ph="{&quot;name&quot;: 'Part'...}" />
-                </folding>
+                <folding />
               </first_editor>
-              <second_editor />
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="2016-12-12-md-rule.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/2016-12-12-md-rule.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="135">
-                <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
-              <second_editor />
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -134,19 +104,34 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hexo-blog/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2592">
+            <state relative-caret-position="1632">
               <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="136">
               <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-1-16-演习.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/2018-1-16-演习.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -163,6 +148,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/hexo-blog/source/_posts/2016-12-12-md-rule.md" />
         <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml" />
+        <option value="$PROJECT_DIR$/hexo-blog/source/_posts/2018-1-16-演习.md" />
       </list>
     </option>
   </component>
@@ -176,13 +162,12 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/hexo-blog/node_modules" />
-    <handled-path value="$PROJECT_DIR$/hexo-blog/themes/yilia/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="32" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="102" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -199,63 +184,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vv-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vv-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vv-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vv-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vv-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vv-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yilia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="vv-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vv-blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vv-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vv-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="hexo-blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vv-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vv-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="hexo-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vv-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vv-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="hexo-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../element" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="E:/Install/install-path/tools/node/node" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -266,7 +230,27 @@
       <recent name="E:\github\vv-blog\hexo-blog\source\assets\img" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -295,9 +279,6 @@
       <option name="cucumberJsArguments" value="" />
       <option name="executablePath" />
       <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -334,46 +315,106 @@
       <workItem from="1515998773874" duration="801000" />
       <workItem from="1516000625314" duration="163000" />
       <workItem from="1516000927791" duration="3219000" />
+      <workItem from="1516071699762" duration="338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4183000" />
+    <option name="totallyTimeSpent" value="4521000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="102" y="23" width="1280" height="730" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20442571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20413026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37486458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37480316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2018-1-16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018-1-16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/2017-11-17-vue-about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/2016-12-12-md-rule.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -400,29 +441,15 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexo-blog/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/README.md" />
     <entry file="file://$PROJECT_DIR$/hexo-blog/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexo-blog/source/assets/img/avatar-small.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/source/assets/img/avatar-small.jpg" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -432,70 +459,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="81">
-            <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
-          <second_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/2017-11-17-vue-about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1515124216083" expanded="true" signature="204:250" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="264:317" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="280:309" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="338:408" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="371:400" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="503:602" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="632:795" ph="{&quot;mutations&quot;: mutations...}" />
-              <marker date="1515124216083" expanded="true" signature="643:709" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="665:705" ph="{&quot;url&quot;: ''...}" />
-              <marker date="1515124216083" expanded="true" signature="778:792" ph="{&quot;ware&quot;: ware...}" />
-              <marker date="1515124216083" expanded="true" signature="825:869" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="851:867" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="894:919" ph="{&quot;demoWareStore&quot;: '345'...}" />
-              <marker date="1515124216083" expanded="true" signature="936:965" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="1005:1100" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="1042:1098" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="1119:1205" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="1146:1203" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="1221:1267" ph="{&quot;state&quot;: state...}" />
-              <marker date="1515124216083" expanded="true" signature="1667:1782" ph="{&quot;path&quot;: '/part'...}" />
-              <marker date="1515124216083" expanded="true" signature="1699:1772" ph="[...]" />
-              <marker date="1515124216083" expanded="true" signature="1709:1756" ph="{&quot;name&quot;: 'Home'...}" />
-              <marker date="1515124216083" expanded="true" signature="1792:1844" ph="{&quot;name&quot;: 'Part'...}" />
-              <marker date="1515124216083" expanded="true" signature="2075:2255" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="2135:2160" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="2189:2222" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="2375:2686" ph="{...}" />
-              <marker date="1515124216083" expanded="true" signature="2388:2684" ph="[...]" />
-              <marker date="1515124216083" expanded="true" signature="2397:2677" ph="{&quot;name&quot;: 'Home'...}" />
-              <marker date="1515124216083" expanded="true" signature="2499:2656" ph="[...]" />
-              <marker date="1515124216083" expanded="true" signature="2517:2642" ph="{&quot;name&quot;: 'Part'...}" />
-              <marker date="1515124216083" expanded="true" signature="2721:2791" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="2738:2779" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="2814:3054" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="2839:3042" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="2906:3002" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="3077:3115" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="3085:3103" ph="..." />
-              <marker date="1515124216083" expanded="true" signature="3172:3283" ph="{&quot;path&quot;: '/'...}" />
-              <marker date="1515124216083" expanded="true" signature="3200:3273" ph="[...]" />
-              <marker date="1515124216083" expanded="true" signature="3210:3257" ph="{&quot;name&quot;: 'Home'...}" />
-              <marker date="1515124216083" expanded="true" signature="3395:3510" ph="{&quot;path&quot;: '/part'...}" />
-              <marker date="1515124216083" expanded="true" signature="3427:3500" ph="[...]" />
-              <marker date="1515124216083" expanded="true" signature="3437:3484" ph="{&quot;name&quot;: 'Home'...}" />
-              <marker date="1515124216083" expanded="true" signature="3520:3567" ph="{&quot;name&quot;: 'Part'...}" />
-            </folding>
+            <folding />
           </first_editor>
-          <second_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
@@ -503,24 +488,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/2016-12-12-md-rule.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="135">
-            <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
-          <second_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hexo-blog/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2592">
+        <state relative-caret-position="1632">
           <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
           <folding />
         </state>
@@ -528,9 +514,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="136">
           <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/2018-1-16-演习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
